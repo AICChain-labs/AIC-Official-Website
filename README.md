@@ -8,8 +8,6 @@
 
 > The official landing page and portal for **AIC (Abu Dhabi Infrastructure Chain)** – The world's first L1 public chain designed specifically for high-frequency RWA trading and AI compute trading.
 
-[English](README.md) • [中文](#) • [العربية](#)
-
 ## 🌟 Overview
 
 This repository contains the source code for the official website of AIC. It serves as the primary gateway for users, developers, and investors to learn about the AIC ecosystem, covering the dual-engine narrative of Energy RWA and Sovereign AI Compute.
