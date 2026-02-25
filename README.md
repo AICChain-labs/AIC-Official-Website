@@ -39,7 +39,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AICChain-labs/AIC-Official-Website.git
-   cd website
+   cd AIC-Official-Website
    ```
 
 2. **Install dependencies**
